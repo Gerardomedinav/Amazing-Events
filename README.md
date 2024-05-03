@@ -1,4 +1,6 @@
-# Proyecto Amazing Events
+# Proyecto Amazing Events  
+Abre el enlace del despliegue del proyecto: [Amazing Events Deploy](https://amazing-events-teal.vercel.app/)
+2. Explora las diferentes secciones para encontrar eventos emocionantes.
 ![Captura de pantalla 1](captura(1).png)
 Este proyecto utiliza las siguientes tecnologías y técnicas:
 
